@@ -1,0 +1,9 @@
+/Users/dari/Projects/Lab_1/ImageRecognizer/obj/Debug/netcoreapp2.1/ImageRecognizer.csprojAssemblyReference.cache
+/Users/dari/Projects/Lab_1/ImageRecognizer/obj/Debug/netcoreapp2.1/ImageRecognizer.csproj.CoreCompileInputs.cache
+/Users/dari/Projects/Lab_1/ImageRecognizer/obj/Debug/netcoreapp2.1/ImageRecognizer.AssemblyInfoInputs.cache
+/Users/dari/Projects/Lab_1/ImageRecognizer/obj/Debug/netcoreapp2.1/ImageRecognizer.AssemblyInfo.cs
+/Users/dari/Projects/Lab_1/ImageRecognizer/bin/Debug/netcoreapp2.1/ImageRecognizer.deps.json
+/Users/dari/Projects/Lab_1/ImageRecognizer/bin/Debug/netcoreapp2.1/ImageRecognizer.dll
+/Users/dari/Projects/Lab_1/ImageRecognizer/bin/Debug/netcoreapp2.1/ImageRecognizer.pdb
+/Users/dari/Projects/Lab_1/ImageRecognizer/obj/Debug/netcoreapp2.1/ImageRecognizer.dll
+/Users/dari/Projects/Lab_1/ImageRecognizer/obj/Debug/netcoreapp2.1/ImageRecognizer.pdb

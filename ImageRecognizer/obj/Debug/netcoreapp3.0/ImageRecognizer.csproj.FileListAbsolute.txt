@@ -1,0 +1,11 @@
+/Users/dari/Projects/Lab_1/ImageRecognizer/bin/Debug/netcoreapp3.0/ImageRecognizer.deps.json
+/Users/dari/Projects/Lab_1/ImageRecognizer/bin/Debug/netcoreapp3.0/ImageRecognizer.dll
+/Users/dari/Projects/Lab_1/ImageRecognizer/bin/Debug/netcoreapp3.0/ImageRecognizer.pdb
+/Users/dari/Projects/Lab_1/ImageRecognizer/obj/Debug/netcoreapp3.0/ImageRecognizer.csprojAssemblyReference.cache
+/Users/dari/Projects/Lab_1/ImageRecognizer/obj/Debug/netcoreapp3.0/ImageRecognizer.AssemblyInfoInputs.cache
+/Users/dari/Projects/Lab_1/ImageRecognizer/obj/Debug/netcoreapp3.0/ImageRecognizer.AssemblyInfo.cs
+/Users/dari/Projects/Lab_1/ImageRecognizer/obj/Debug/netcoreapp3.0/ImageRecognizer.dll
+/Users/dari/Projects/Lab_1/ImageRecognizer/obj/Debug/netcoreapp3.0/ImageRecognizer.pdb
+/Users/dari/Projects/Lab_1/ImageRecognizer/bin/Debug/netcoreapp3.0/Lab_3.dll
+/Users/dari/Projects/Lab_1/ImageRecognizer/bin/Debug/netcoreapp3.0/Lab_3.pdb
+/Users/dari/Projects/Lab_1/ImageRecognizer/obj/Debug/netcoreapp3.0/ImageRecognizer.csproj.CopyComplete
